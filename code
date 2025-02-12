@@ -1,0 +1,54 @@
+<!-- Header Section -->
+<header class="lighting-effect">
+    <div class="logo">Your Business Name</div>
+    <nav>
+        <ul>
+            <li><a href="#services">Services</a></li>
+            <li><a href="#about">About Us</a></li>
+            <li><a href="#pricing">Pricing</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+    <button class="cta-button">Get a Free Quote</button>
+</header>
+
+<!-- Hero Section -->
+<section class="hero lighting-effect">
+    <h1>Reliable Freight Dispatching Services – Maximize Your Profits!</h1>
+    <p>We help Owner-Operators and Fleet Owners find the highest-paying loads with 24/7 support.</p>
+    <button class="cta-button">Get Started Today</button>
+</section>
+
+<!-- Why Choose Us Section -->
+<section class="why-choose lighting-effect">
+    <h2>Why Choose Us?</h2>
+    <ul>
+        <li>✅ 24/7 Dispatch Support</li>
+        <li>✅ Competitive Rates</li>
+        <li>✅ Load Negotiation</li>
+        <li>✅ No Hidden Fees</li>
+    </ul>
+</section>
+
+<!-- Services Section -->
+<section id="services" class="lighting-effect">
+    <h2>Our Services</h2>
+    <ul>
+        <li>📌 FTL (Full Truckload)</li>
+        <li>📌 LTL (Less Than Truckload)</li>
+        <li>📌 Reefer & Dry Van</li>
+        <li>📌 Power Only & Box Truck</li>
+    </ul>
+</section>
+
+<!-- Contact Section -->
+<section id="contact" class="lighting-effect">
+    <h2>Get in Touch</h2>
+    <form>
+        <input type="text" placeholder="Name" required>
+        <input type="email" placeholder="Email" required>
+        <input type="tel" placeholder="Phone Number" required>
+        <textarea placeholder="Message"></textarea>
+        <button type="submit" class="cta-button">Submit</button>
+    </form>
+</section>
